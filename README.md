@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Risshi</a></h1>
-<h3 align="center">A Learning Backend developer from Noida &#127470;&#127475</h3>
+<h3 align="center">A Learning web developer from Noida &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" width="300px" alt="image" src="https://github.com/codeRisshi25/codeRisshi25/assets/74894700/3624b69a-eae8-4693-be91-f514412d909a)">
