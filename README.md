@@ -2,7 +2,7 @@
 <h3 align="center">A Learning web developer from Noida &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" width="300px" alt="image" src="https://github.com/codeRisshi25/codeRisshi25/assets/74894700/3624b69a-eae8-4693-be91-f514412d909a)">
+  <img align="right" top="500" width="300px" alt="image" src="Hand coding-pana.svg">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeRisshi25&label=Profile%20views&color=0e75b6&style=flat" alt="codeRisshi25" /> </p>
