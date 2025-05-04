@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Bennett University</a>
 
-- 🌱 I’m currently Working on various projects.
-
-- 💾 I’m currently learning React Native and C++.
+- 💾 I’m currently learning Blockchain and OpenGL.
 
 - 📫 How to reach me **risshirajsen@gmail.com**
 
