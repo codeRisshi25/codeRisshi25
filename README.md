@@ -37,6 +37,9 @@
     <a href="https://instagram.com/__risshi" target="_blank" style="margin: 0 10px;">
         <img src="https://img.icons8.com/doodle/48/000000/instagram-new--v2.png" alt="Instagram"/>
     </a>
+    <a href="https://x.com/RisshiRajSen" target="_blank" style="margin: 0 10px;">
+        <img src="https://img.icons8.com/?size=100&id=80447&format=png&color=000000" alt="x"/>
+    </a>
 </p>
 
 ## 🛠️ Tech Stack
