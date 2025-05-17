@@ -24,7 +24,7 @@
 - 💬 Ask me about backend development, Node.js, Python, or anything tech-related!
 - 📫 How to reach me: **risshirajsen@gmail.com**
 - ⚡ Fun fact: I love exploring new technologies and building cool projects.
-
+  
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -61,3 +61,5 @@
     <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/opengl-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black" alt="OpenGL"/>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codeRisshi25&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
